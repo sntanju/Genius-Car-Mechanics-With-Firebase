@@ -1,0 +1,55 @@
+[   
+    {
+    "name":"Replace Tire",
+    "price":2000,
+    "time":2,"id":1,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "img":"https://i.ibb.co/VDty3JF/img-1.png"
+    },
+    {
+    "name":"Wash car",
+    "price":1000,
+    "time":3,"id":2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "img":"https://i.ibb.co/pxLPtBx/img-2.jpg"
+    },
+    {
+    "name":"Replace door",
+    "price":4000,
+    "time":5,"id":3,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "img":"https://i.ibb.co/8KZbr5c/img-3.jpg"
+    },
+    {
+    "name":"Replace window",
+    "price":6000,
+    "time":4,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "id":4,
+    "img":"https://i.ibb.co/mcyPTXN/img-4.jpg"
+    },
+    {
+    "name":"Replace sit",
+    "price":3000,
+    "time":3,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "id":5,
+    "img":"https://i.ibb.co/J2DB7V6/img-5.jpg"
+    },
+    {
+    "name":"Replace glass",
+    "price":7000,
+    "time":1,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "id":6,
+    "img":"https://i.ibb.co/2jdQyq5/img-6.jpg"
+    },
+    {
+    "name":"Replace other",
+    "price":4000,
+    "time":4,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, officia. Quos adipisci officia veniam rem quod eum, atque fuga libero.",
+    "id":7,
+    "img":"https://i.ibb.co/XbxpGGf/img-7.jpg"
+    }
+]
